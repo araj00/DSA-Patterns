@@ -77,4 +77,4 @@ Converging pattern is a technique about using two markers (pointers) to scan a s
 
 Lets consider the boat problem mentioned above:-
 
-![alt text](/assets/converging_pattern.png)
+![alt text](/assets/Converging_Pattern.png)
