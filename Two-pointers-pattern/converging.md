@@ -27,7 +27,7 @@ Converging pattern can be one of the solution.
 
 ## What Is Converging Pattern ?
 
-<span style="color: green">Converging pattern</span> is a technique about using <span style="color: red">two markers (pointers) to scan a sorted array from both ends toward the center.</span>
+Converging pattern is a technique about using two markers (pointers) to scan a sorted array from both ends toward the center.
 
 ![alt text](/assets/Converging_Pattern.png)
 

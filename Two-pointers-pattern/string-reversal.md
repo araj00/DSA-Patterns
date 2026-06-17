@@ -13,7 +13,7 @@ Keywords to observe before *<u style="color: cadetblue">applying string reversal
 
 ## What Is String Reversal Pattern ?
 
-<span style="color: green">String Reversal pattern</span> is a technique about using <span style="color: red">two markers (pointers) to iterate characters from both sides and replace it with each other (in-place modification, if your language allows) in a string.</span>
+String Reversal pattern is a technique about using two markers (pointers) to iterate characters from both sides and replace it with each other (in-place modification, if your language allows) in a string.
 
 ![alt text](/assets/String_Reversal_Pattern.png)
 

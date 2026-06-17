@@ -11,7 +11,7 @@ Keywords to observe before *<u style="color: cadetblue">applying fast and slow p
 
 ## What Is Fast and Slow Pointer Pattern ?
 
-<span style="color: green">Fast and Slow pointer</span> is a technique about <span style="color: red">finding detection cycle or loop using two markers (pointers) which iterate over the given input array with two different speeds, usually double speed to one another. If there is a cycle detection then they will meet at same point or index otherwise fast pointer will exit out of the array</span>
+Fast and Slow pointer is a technique about finding detection cycle or loop using two markers (pointers) which iterate over the given input array with two different speeds, usually double speed to one another. If there is a cycle detection then they will meet at same point or index otherwise fast pointer will exit out of the array.
 
 ![alt text](/assets/Fast_and_Slow_Pointer_Pattern.png)
 
