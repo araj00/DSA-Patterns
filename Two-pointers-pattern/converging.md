@@ -16,7 +16,7 @@ Each questions mentioned above, follows a single pattern directly or indirectly 
 4. Find those triplets whose sum is zero, with no duplicates
 5. Find those quadruplets whose sum is a given target, avoiding duplicates.
 
-Keywords to observe before <u>*applying converging pattern*</u> are **key-pairs, target, and adding up to the target**.
+Keywords to observe before <u style="color: cadetblue">*applying converging pattern*</u> are **key-pairs, target, and adding up to the target**.
 
 Whenever the questions indicate finding pairs, it could be double, triplets or quadruplets which will be based upon some target that those values add up to.
 
@@ -27,11 +27,13 @@ Converging pattern can be one of the solution.
 
 ## What Is Converging Pattern ?
 
-Converging pattern is a technique about using two markers (pointers) to scan a sorted array from both ends toward the center.
+<span style="color: green">Converging pattern</span> is a technique about using <span style="color: red">two markers (pointers) to scan a sorted array from both ends toward the center.</span>
+
+![alt text](/assets/Converging_Pattern.png)
 
 ## Its function and edge-cases
 
-**Conditions for converging pattern**:- A given array should be in sorted array.
+<u style="color: cadetblue">**Conditions for converging pattern**</u> :- A given array should be in sorted array.
 
 ### How the pointers move
 ```javascript
@@ -72,9 +74,3 @@ Converging pattern is a technique about using two markers (pointers) to scan a s
 ## Beyond Pairs:-
 
 - For problems like "3Sum," you can fix one pointer and use two more to find pairs, extending the idea to triplets. Same with 4 sum, fix 2 pointers, so that instead of O(n4), it will use O(n3).
-
-## Example:-
-
-Lets consider the boat problem mentioned above:-
-
-![alt text](/assets/Converging_Pattern.png)
