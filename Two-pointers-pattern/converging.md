@@ -35,7 +35,7 @@ Converging pattern can be one of the solution.
 
 <u style="color: cadetblue">**Conditions for converging pattern**</u> :- A given array should be in sorted array.
 
-### How the pointers move
+### How it works
 ```javascript
 - Left Pointer: Starts at the beginning (smallest value).
 - Right Pointer: Starts at the end (largest value).

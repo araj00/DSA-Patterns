@@ -19,7 +19,7 @@ Keywords to observe before *<u style="color: cadetblue">applying string reversal
 
 ## Its function and edge-cases
 
-### How the pointers move
+### How it works
 ```javascript
 - Place one pointer (left) at the beginning and another (right) at the end.
 - While left is less than right, swap the characters at these positions.
