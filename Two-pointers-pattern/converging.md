@@ -16,7 +16,7 @@ Each questions mentioned above, follows a single pattern directly or indirectly 
 4. Find those triplets whose sum is zero, with no duplicates
 5. Find those quadruplets whose sum is a given target, avoiding duplicates.
 
-Keywords to observe in the above questions are **key-pairs, target, and adding up to the target**.
+Keywords to observe before <u>*applying converging pattern*</u> are **key-pairs, target, and adding up to the target**.
 
 Whenever the questions indicate finding pairs, it could be double, triplets or quadruplets which will be based upon some target that those values add up to.
 
@@ -69,7 +69,7 @@ Converging pattern is a technique about using two markers (pointers) to scan a s
 
 ---
 
-## Beyond Pairs:
+## Beyond Pairs:-
 
 - For problems like "3Sum," you can fix one pointer and use two more to find pairs, extending the idea to triplets. Same with 4 sum, fix 2 pointers, so that instead of O(n4), it will use O(n3).
 
