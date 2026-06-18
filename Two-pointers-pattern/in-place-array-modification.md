@@ -16,7 +16,7 @@ Keywords to observe before <u>*applying in-place modification*</u> are
 1. **move element, remove the element.**
 2. **remove duplicates.**
 3. **sort the elements(2-4 unique element).**
-4. **swap the elements with true one**.**
+4. **swap the elements with true one**.
 
 Note: <u>All of the above questions, just imply one thing if the elements are not at its specified place then just swap it with its true one. So, just before solving anything like this, ask are you going to swap the elements in the array. 
 
