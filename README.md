@@ -7,3 +7,4 @@ This repo contains relatively all necessary patterns related to DSA.
     2. [fast and slow pattern (Hare and Tortoise algo)](/Two-pointers-pattern/fast-slow-pointer.md)
     3. [string reversal](/Two-pointers-pattern/string-reversal.md)
     4. [In-place Array Modification](/Two-pointers-pattern/in-place-array-modification.md)
+    5. [Expanding From Centre](/Two-pointers-pattern/expanding-from-centre.md)
