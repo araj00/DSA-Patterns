@@ -1,4 +1,4 @@
-# In-place Array Modification Pattern
+# Expanding From Centre Pattern
 
 ## Observations
 
