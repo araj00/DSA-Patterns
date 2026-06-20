@@ -13,7 +13,25 @@ Keywords to observe before <u style="color: cadetblue">*applying intersection de
 
 ---
 
-
 ## What Is Intersection-Detection Pattern ?
 
-It is a pattern to find a intersection detection in two open linked list or array from where the elements in the lists are common.
+It is a pattern to find a intersection detection in two open linked list or array from where the elements in the lists are common or to find those elements which are common in both with some condition like minimum sum index of it like above question.
+
+## Approaches.
+
+1. Brute-Force Approach using sets.
+
+1. Use a set to store the elements of the first list while iterating over it.
+2. Now, iterate over second list from head start.
+3. Once, you find the first common element return that.
+4. If you don't find any common in the stored set, that means there is no common intersection point return null.
+
+2. Better Approach using length calculation and head start with extra step on longer length list.
+
+1. Measure the length of two given list.
+2. Give the head start up for the longer list by the difference in their length.
+3. Now, both are aligned and continue to start the iteration on both list using two pointer as soon as the two pointer points to same element. Return it.
+
+3. Optimal Approach
+
+1. 
