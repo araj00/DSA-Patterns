@@ -38,3 +38,5 @@ It is a pattern to find a intersection detection in two open linked list or arra
 2. keep a check on each iteration whether two pointers point to the same element or not. If so, return that element otherwise continue.
 3. If both pointers completes its iteration at the same time with no common, return null.
 4. If one pointer comes to an end before second pointer, then make that completed pointer to iterate over another list. Same applies on second pointer too.
+
+**Note:- All the above approaches does not mean that other approach is bad, sometimes we need to look for brute force approach as well to handle the scenario. Like in above one of the question to find the minimum index sum, we need to use a hashmap to store the words along with index, so that if the common word are there we can know the minimum sum using their indexes and tell the answer**
