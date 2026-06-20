@@ -32,6 +32,9 @@ It is a pattern to find a intersection detection in two open linked list or arra
 2. Give the head start up for the longer list by the difference in their length.
 3. Now, both are aligned and continue to start the iteration on both list using two pointer as soon as the two pointer points to same element. Return it.
 
-3. Optimal Approach
+3. Optimal Approach (Two pointers with list switching)
 
-1. 
+1. Start with two respective pointers iterating on both list.
+2. keep a check on each iteration whether two pointers point to the same element or not. If so, return that element otherwise continue.
+3. If both pointers completes its iteration at the same time with no common, return null.
+4. If one pointer comes to an end before second pointer, then make that completed pointer to iterate over another list. Same applies on second pointer too.
