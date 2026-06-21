@@ -19,6 +19,10 @@ Binary Search Approach
 
 ```javascript
 1. Find the low and high value to create a range in which you will search based on the question.
-2. Apply the binary search to find the min/max output.
-3. Return the output.
+2. Take the mid value using low and high value, and check whether that satisfies the required condition or not.
+3. If it satisfies, store that value in the variable, and change the low or high value based on the objective to find max or min in question respectively.
+4. Once, you have completed the binary search
+5. Return the output.
 ```
+
+Note:- "There is an iterative approach in which you check every values of the range leading to O(n * O(number of values in range)) time complexity, while binary search gives O(n * (log(num of values in range)))
