@@ -26,3 +26,8 @@ Binary Search Approach
 ```
 
 Note:- "There is an iterative approach in which you check every values of the range leading to O(n * O(number of values in range)) time complexity, while binary search gives O(n * (log(num of values in range)))
+
+Some Advanced patterns based on binary search:-
+
+[Median of two sorted arrays](https://ritvik-blog.vercel.app/posts/35-leetcode-median-of-two-sorted-arrays)
+[Kth element of sorted array](https://dsa-explorer-hub.vercel.app/algorithm/quick-select) - It is related to quick select algorithm
