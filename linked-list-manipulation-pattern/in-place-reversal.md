@@ -17,22 +17,27 @@ It is a pattern to reverse a linked list without using extra space.
 
 1. Stack Approach
 
+```javascript
 1. Use a stack to store the linked list elements.
 2. Pop each element of the stack one by one, to replace the existing linked list.
 3. Once the stack is empty, return the new linked list using its head.
+```
 
 2. Recursion Approach
 
+```javascript
 1. Store the head address in a temp value.
 2. Start the recursion on first node by replacing next address to null.
 3. Use recursion, to change the existing node next address with previous one.
 4. Once, come to an end replace the head next address with that node.
+```
 
 3. In-place reversal.
 
+```javascript
 1. Start on the head or from where it is mentioned in the question.
 2. Use prev, current and next variable to store the prev, current and next node value.
 3. Once you have prev, current and next variable value, replace the current value, next address with the prev one while changing the head address to current value. Don't consider head value in any of the variable.
 4. Once you find the next variable value to null, return the reversed linked list.
-
+```
 **Note:- In-place reversal pattern is just a insertion and deletion thing in a linked list as this method is just O(1) time complexity.**

@@ -16,11 +16,14 @@ It is a pattern to merge the given n number of lists with O(1) auxillary space.
 
 1. Merge Sort Approach
 
+```javascript
 1. Store all the elements from given linked lists into a new linked list.
 2. Sort them using merge sort and return the new linked list.
+```
 
 2. Iterative Approach
 
+```javascript
 1. Use two pointers to point to the head of two linked lists out of given n linked lists.
 2. Compare the two pointers value, using head.next of each pointer.
 3. Init a new dummy node to create the merge linked list.
@@ -28,5 +31,6 @@ It is a pattern to merge the given n number of lists with O(1) auxillary space.
 5. dummy = dummy.next
 6. If any of two linked lists are empty then return all the elements from other linked list as it is by connecting them to dummy.next.
 7. End.
+```
 
 ![alt text](/assets/Merge_2_Linked_Lists_Pattern.png)
