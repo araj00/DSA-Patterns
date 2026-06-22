@@ -5,8 +5,9 @@
 1. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/description/) - State whether the given input is a valid paranthesis true or not.
 2. [Minimum number of swaps to make the string balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) - Minimum number of swaps to make the string balanced and valid.
 3. [Minimum remove to make valid paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) - Make a valid paranthesis in a string by minimum removal of it.
+4. [Evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
-Keywords to observe before <u>*applying valid paranthesis pattern*</u> is **to make a valid paranthesis through removal, swapping**.
+Keywords to observe before <u>*applying valid paranthesis pattern*</u> are **to make a valid paranthesis through removal, swapping, need to evaluate something based on top elements at the moment like evaluating reverse polish notation**.
 
 ## What Is Valid Paranthesis Pattern ?
 
