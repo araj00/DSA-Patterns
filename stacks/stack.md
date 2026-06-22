@@ -26,3 +26,7 @@ It is a pattern in which stack data structure gets used to make the validation o
 5. Otherwise, push that on top stack.
 6. After processing all elements on to the stack, take a call to calculate the output like for valid paranthesis, check if the length of the stack is empty or not, in swapping string question look for the poping up the paranthesis after swapping as there could be chance after swapping that it becomes balanced or valid paranthesis.
 ```
+
+## References
+
+1. [Hello Interview (stack)](https://www.hellointerview.com/learn/code/stack/overview)

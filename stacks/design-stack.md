@@ -8,7 +8,7 @@
 
 Keywords to observe before <u>*applying design stack pattern*</u> is **to design a stack where you can perform some operation which would feel like performing n times to achieve the output but that should be achieved in O(1) time complexity**.
 
-## What Is Valid Paranthesis Pattern ?
+## What Is Design Stack Pattern ?
 
 It is a pattern in which stack data structure gets used to transform the O(n) operations into O(1) operations.
 ![alt text](/assets/Design_Stack_Pattern.png)
@@ -20,3 +20,7 @@ It is a pattern in which stack data structure gets used to transform the O(n) op
 2. Perform the push , pop, length function as it is in stack.
 3. But, change the push function such that it includes extra data for the operation which are expected to perform in O(1) time complexity rather than O(n) like to get the min element in the stack, max element in the stack etc.
 ```
+
+## References
+
+1. [Min Stack](https://codeanddebug.in/blog/min-stack/)
