@@ -6,7 +6,7 @@
 2. [Minimum number of swaps to make the string balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) - Minimum number of swaps to make the string balanced and valid.
 3. [Minimum remove to make valid paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) - Make a valid paranthesis in a string by minimum removal of it.
 
-Keywords to observe before <u>*applying valid paranthesis pattern*</u> are **make a valid paranthesis through removal, swapping**.
+Keywords to observe before <u>*applying valid paranthesis pattern*</u> is **to make a valid paranthesis through removal, swapping**.
 
 ## What Is Valid Paranthesis Pattern ?
 
