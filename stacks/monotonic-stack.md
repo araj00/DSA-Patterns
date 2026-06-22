@@ -5,7 +5,7 @@
 1. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) - Find the number of days to wait to get warmer temperature days for each given data.
 2. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) - Find the next greater element for each data in the input.
 3. [Remove K digits](https://leetcode.com/problems/remove-k-digits/description/) - Remove K digits to make the smallest number.
-4. [Online stock span](https://leetcode.com/problems/online-stock-span/description/) - Find the span of each given stock during which the stock price was less than or equal to current stock price consecutively in previous days.[<sup>This problem can be solved by using design stack pattern also</sup>](/stacks/design-stack.md)
+4. [Online stock span](https://leetcode.com/problems/online-stock-span/description/) - Find the span of each given stock during which the stock price was less than or equal to current stock price consecutively in previous days.([This problem can be solved by using design stack pattern also](/stacks/design-stack.md))
 
 Keywords to observe before <u>*applying monotonic stack pattern*</u> are **find next greater/smaller element or find previous greater/smaller element**.
 
