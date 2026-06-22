@@ -6,6 +6,7 @@
 2. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) - Find the next greater element for each data in the input.
 3. [Remove K digits](https://leetcode.com/problems/remove-k-digits/description/) - Remove K digits to make the smallest number.
 4. [Online stock span](https://leetcode.com/problems/online-stock-span/description/) - Find the span of each given stock during which the stock price was less than or equal to current stock price consecutively in previous days.([This problem can be solved by using design stack pattern also](/stacks/design-stack.md))
+5. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - Find the largest rectangle that can be found in given histogram.[<sup>3</sup>](#references)
 
 Keywords to observe before <u>*applying monotonic stack pattern*</u> are **find next greater/smaller element or find previous greater/smaller element**.
 
@@ -37,3 +38,4 @@ A Monotonic stack is a variation of the traditional stack data structure that ma
 
 1. [Hello Interview](https://www.hellointerview.com/learn/code/stack/monotonic-stack)
 2. [Algomaster.io](https://algomaster.io/learn/dsa/monotonic-stack-introduction)
+3. [Largest Rectangle in histogram](https://www.hellointerview.com/learn/code/stack/largest-rectangle-in-histogram)
