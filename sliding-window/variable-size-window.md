@@ -14,6 +14,8 @@ Variable size window is a sub pattern of sliding window in which two pointers ar
 
 This pattern works on previously solved subproblems to reach upto a solution. If you observe, we are just operating the operation on previous subarrays to make a new subarray by adjusting previous subarrays through removal or adding.
 
+![alt text](/assets/Variable_Sizing_Window_Pattern.png)
+
 ## Approach
 
 1. Initialise two pointers i.e start and end, starting at 0th index.
