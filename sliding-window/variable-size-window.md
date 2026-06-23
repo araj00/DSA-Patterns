@@ -10,19 +10,20 @@ Keywords to observe before <u>*applying variable-size window pattern*</u> is **t
 
 ## What is Variable-Size Window pattern ?
 
-Variable size window is a sub pattern of sliding window in which two pointers are used to maintain subarrays of size K in an array to solve the problem. This pattern works on previously solved subproblems to reach upto a solution. If you observer, we are just removing and adding a new value in already calculated sum when we shift the start and end pointer to make a new subarrays so that we don't have to work from scratch but pick the problem from the previous checkpoint.
+Variable size window is a sub pattern of sliding window in which two pointers are used to maintain subarrays of variable size in an array to solve the problem which involves finding the longest subarrays through operating some operations. 
+
+This pattern works on previously solved subproblems to reach upto a solution. If you observe, we are just operating the operation on previous subarrays to make a new subarray by adjusting previous subarrays through removal or adding.
 
 ## Approach
 
 1. Initialise two pointers i.e start and end, starting at 0th index.
-2. Init variables like sum, avg as per the question and output(result).
+2. Init variables like max_subarrays length, operationsDone out of max K operations.
 3. while end <= arr.length - 1
-4. If end - start + 1 <= K, Add the arr[end] value to variables like sum or avg variable.Increment the end pointer.
-5. Else, remove the arr[start++] from variables like sum or avg and add arr[++end]
-6. Insert the sum value of each subarray to the output at its respective index.
-7. End the while.
-8. Return the output.
+4. If operationsDone <= K, increment the length by 1.
+5. Else, max(max_subarrays_length, end - start + 1), start++.
+6. End the while.
+7. Return the max_subarray_length.
 
 ## References
 
-1. [Hello Interview](https://www.hellointerview.com/learn/code/sliding-window/fixed-length)
+1. [Hello Interview](https://www.hellointerview.com/learn/code/sliding-window/variable-length)
