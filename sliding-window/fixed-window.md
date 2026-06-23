@@ -9,7 +9,7 @@ Keywords to observe before <u>*applying fixed-size window pattern*</u> is **to f
 
 ## What is Fixed-Size Window pattern?
 
-Fixed size window is a sub pattern of sliding window in which two pointers are used to maintain subarrays of size K in an array to solve the problem.
+Fixed size window is a sub pattern of sliding window in which two pointers are used to maintain subarrays of size K in an array to solve the problem. This pattern works on previously solved subproblems to reach upto a solution. If you observer, we are just removing and adding a new value in already calculated sum when we shift the start and end pointer to make a new subarrays so that we don't have to work from scratch but pick the problem from the previous checkpoint.
 
 ## Approach
 
