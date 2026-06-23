@@ -13,6 +13,8 @@ Fixed size window is a sub pattern of sliding window in which two pointers are u
 
 This pattern works on previously solved subproblems to reach upto a solution. If you observe, we are just removing and adding a new value in already calculated sum when we shift the start and end pointer to make a new subarrays so that we don't have to work from scratch but pick the problem from the previous checkpoint.
 
+![alt text](/assets/Fixed_Sizing_Window_Pattern.png)
+
 ## Approach
 
 1. Initialise two pointers i.e start and end, starting at 0th index.
