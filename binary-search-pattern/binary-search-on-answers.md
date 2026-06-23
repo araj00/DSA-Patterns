@@ -5,7 +5,7 @@
 1. [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/description/) - Find the minimum speed k at what koko can eat all given bananas in the input within given hour.
 2. [Maximum candies allocated to children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) - Find the maximum candies which can be distributed among K children equally from the given piles of candies and make sure that each child can be allocated candies from only one pile of candies and some piles of candies may go unused.
 
-In above questions, it can be seen to find the minimum or maximum ways to maximise the output.
+In above questions, it can be seen to find the minimum or maximum ways to find the output.
 
 Keywords to observe before <u>*applying binary search on answer pattern*</u> in **find the minimum/maximum ways which given input can be ingested efficiently**.
 
