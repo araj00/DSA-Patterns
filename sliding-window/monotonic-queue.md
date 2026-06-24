@@ -12,7 +12,7 @@ Keywords to observe before <u>*applying monotonic queue pattern*</u> is **always
 
 Monotonic queue pattern is a subpattern in a sliding window which uses queue of size K to find the maximum or minimum in that window size by maintaining strictly increasing or decreasing order. It follows FIRST-IN-FIRST-OUT(FIFO) unlike stack which is LAST-IN-FIRST-OUT(LIFO).
 
-**Note:- At first, monotonic queue and montonic stack will look like having same functions but if you follow basic principles of queue which is FIFO while stack follows LIFO. Then, it will start making difference. To illustrate this below are diagram.**
+**Note:- At first, monotonic queue and montonic stack will look like having same functions but if you follow basic principles of queue which is FIFO while stack follows LIFO. Then, it will start making difference.**
 
 ## Approach
 
