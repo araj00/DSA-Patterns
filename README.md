@@ -1,4 +1,8 @@
-This repo contains relatively all necessary patterns related to DSA.
+# DSA Patterns
+
+This repo contains relatively all necessary patterns related to DSA that I have learnt through solving problems on leetcode. This is not for beginners but who have the understanding of data-structure and algorithms at some level.
+
+This repo can be used as a preparation for any dsa round interviews.
 
 ## Patterns
 
@@ -23,3 +27,8 @@ This repo contains relatively all necessary patterns related to DSA.
     1. [Fixed-Size Window](/sliding-window/fixed-size-window.md)
     2. [Variable-Size Window](/sliding-window/variable-size-window.md)
     3. [Monotonic Queue](/sliding-window/monotonic-queue.md)
+6. Heap
+    1. [Heap Introduction](/heap-and-priority-queue/heap.md)
+    2. [Top-k Elements](/heap-and-priority-queue/top-k-elements.md)
+    3. [K-way Merge](/heap-and-priority-queue/k-way-merge.md)
+    4. [Two-heaps Median](/heap-and-priority-queue/two-heaps-median.md)
