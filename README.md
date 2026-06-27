@@ -1,6 +1,6 @@
-# DSA Patterns
+# DSA CheatSheets
 
-This repo contains relatively all necessary patterns related to DSA that I have learnt through solving problems on leetcode. This is not for beginners but who have the understanding of data-structure and algorithms at some level.
+This repo is the cheatsheet of important DSA-patterns. It contains relatively all necessary patterns related to DSA that I have learnt through solving problems on leetcode. This is not for beginners but who have the basic understanding of data-structure and algorithms at some level.
 
 This repo can be used as a preparation for any dsa round interviews.
 
