@@ -31,3 +31,7 @@ It is a pattern in which a min-heap of size K is maintained to find the smallest
 4. Pop that element and add a new element from the list where popped element belonged if there is any.
 5. Repeat the 3-4 steps until the heap gets emptied after popping up all elements and giving us the final output.
 ```
+
+## References
+
+1. [K-way merge animation](https://dsaanimator.com/patterns/heap-kway)
