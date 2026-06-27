@@ -27,7 +27,7 @@ This repo can be used as a preparation for any dsa round interviews.
     1. [Fixed-Size Window](/sliding-window/fixed-size-window.md)
     2. [Variable-Size Window](/sliding-window/variable-size-window.md)
     3. [Monotonic Queue](/sliding-window/monotonic-queue.md)
-6. Heap
+6. Heap and Priority Queue
     1. [Heap Introduction](/heap-and-priority-queue/heap.md)
     2. [Top-k Elements](/heap-and-priority-queue/top-k-elements.md)
     3. [K-way Merge](/heap-and-priority-queue/k-way-merge.md)
