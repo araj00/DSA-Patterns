@@ -3,11 +3,11 @@ This repo contains relatively all necessary patterns related to DSA.
 ## Patterns
 
 1. Two Pointers
-    1. [Converging Pattern](/Two-pointers-pattern/converging.md)
-    2. [Fast and Slow Pattern (Hare and Tortoise algo)](/Two-pointers-pattern/fast-slow-pointer.md)
-    3. [String Reversal](/Two-pointers-pattern/string-reversal.md)
-    4. [In-place Array Modification](/Two-pointers-pattern/in-place-array-modification.md)
-    5. [Expanding From Centre](/Two-pointers-pattern/expanding-from-centre.md)
+    1. [Converging Pattern](/two-pointers-pattern/converging.md)
+    2. [Fast and Slow Pattern (Hare and Tortoise algo)](/two-pointers-pattern/fast-slow-pointer.md)
+    3. [String Reversal](/two-pointers-pattern/string-reversal.md)
+    4. [In-place Array Modification](/two-pointers-pattern/in-place-array-modification.md)
+    5. [Expanding From Centre](/two-pointers-pattern/expanding-from-centre.md)
 2. Linked List Manipulation
     1. [In-place Reversal](/linked-list-manipulation-pattern/in-place-reversal.md)
     2. [Intersection Pattern](/linked-list-manipulation-pattern/intersection-pattern.md)
