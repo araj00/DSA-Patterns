@@ -10,7 +10,12 @@ Keywords to observe before <u>*applying top-K elements pattern*</u> is **Find th
 
 ## What Is Top-K Elements Pattern ?
 
-Top-K Elements is a subpattern of heap data structure where we maintain min-heap of K size to find out top K element/elements in an end of the loop.
+Top-K Elements is a pattern in form of heap data structure where we maintain min-heap of K size to find out top K element/elements in an end of the loop.
+
+## Properties
+
+1. Time Complexity:- O(n log K).
+2. Space Complexity:- O(K) excluding the space required to give the output if considered then it will become O(n).
 
 ## Approach
 
