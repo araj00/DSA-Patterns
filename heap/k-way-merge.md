@@ -4,7 +4,7 @@
 
 1. [Find K Pairs With Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) - Find K pairs with smallest sums.
 2. [Kth Smallest Element in a sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) - Find Kth smallest element in a sorted matrix.
-3. [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)- .
+3. [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)- Merge K sorted list in a single list.
 
 Keywords to observe before <u>*applying k-way merge pattern*</u> are:-
 
