@@ -34,6 +34,17 @@ I have chosen the second method, i.e children node will have (2*i+1) and. (2*i +
 
 To learn about priority-queue, you should go [this reference](https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/) to learn about priority queue.
 
+**Note:- If you look at above when creating max-heap/min-heap and Priority-Queue then the question may raise in your mind, what is exact difference between Priority-Queue and max-heap/min-heap?
+
+A Priority Queue is an abstract interface that retrieves elements based on priority rather than arrival order. A Min/Max-Heap is the highly efficient tree-based data structure we usually use to implement that interface under the hood.
+
+There are many question related to Priority-Queue. Some of them are:-
+
+1. [Maximum average pass ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/)
+2. [Further building you can reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/)
+3. [Minimum cost to hire K workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
+**
+
 ## References
 
 1. [Heap](https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/)
