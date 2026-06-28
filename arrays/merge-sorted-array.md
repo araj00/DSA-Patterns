@@ -5,7 +5,7 @@
 1. [Square of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) - Make the sorted array into a square of a sorted array.
 2. [Merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/description/) - Merge two sorted arrays into one sorted array.
 
-Keywords to observe before <u>*applying merge sorted array pattern*</u> is **"if question requires no use of extra space to merge two sorted arrays into one.**
+Keywords to observe before <u>*applying merge sorted array pattern*</u> is **"if question requires no use of extra space to merge two sorted arrays into one".**
 
 ## What Is Merge Sorted Array Pattern ?
 
