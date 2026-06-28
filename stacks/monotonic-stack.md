@@ -33,7 +33,6 @@ A Monotonic stack is a variation of the traditional stack data structure that ma
 2. Why store indices instead of values - It keeps positional information available because many problems need the distance between two positions, not just the comparison result. 
 ```
 
-
 ## References
 
 1. [Hello Interview](https://www.hellointerview.com/learn/code/stack/monotonic-stack)
