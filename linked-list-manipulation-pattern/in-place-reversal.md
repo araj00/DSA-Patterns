@@ -7,7 +7,7 @@
 
 Each questions mentioned above, follows a pattern which involves just <u>*a linked list*</u> and tell you to reverse the list or remove the duplicates from the sorted linked list. Indirectly, it says to in-place reversal using insertion or deletion by keeping track of current, prev and next node. As insertion and deletion is just of O(1) time complexity.
 
-Keywords to observe before <u>*applying in-place reversal pattern*</u> are **reverse the linked list, remove duplicated from the sorted linked list**.
+Points to observe before <u>*applying in-place reversal pattern*</u> are **reverse the linked list, remove duplicated from the sorted linked list**.
 
 ## What Is In-place Reversal Pattern ?
 

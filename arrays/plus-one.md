@@ -5,7 +5,7 @@
 1. [Multiply string](https://leetcode.com/problems/multiply-strings/description/) - Multiply the integer in two strings handling the carry over.
 2. [Add to array form of integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) - Add two integers in given two strings without converting it into integer from string.
 
-Keywords to observe before <u>*applying plus one pattern*</u> is **"simply which involves addition or multiplication which can result into handling carry over. Hence, increasing the length of array/string by one or more".**
+Point to observe before <u>*applying plus one pattern*</u> is **"simply which involves addition or multiplication which can result into handling carry over. Hence, increasing the length of array/string by one or more".**
 
 It is just an oldschool way of adding two numbers on paper.
 

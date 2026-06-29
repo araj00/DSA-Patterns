@@ -8,7 +8,7 @@
 
 Each question revolve around word "reverse".
 
-Keywords to observe before *<u style="color: cadetblue">applying string reversal</u>* :- **"Reversing the element"**, **"Reverse the specified element like vowels or consonant"**
+Points to observe before *<u style="color: cadetblue">applying string reversal</u>* :- **"Reversing the element"**, **"Reverse the specified element like vowels or consonant"**
 
 
 ## What Is String Reversal Pattern ?

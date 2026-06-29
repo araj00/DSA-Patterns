@@ -6,7 +6,7 @@
 2. [Happy Number](https://leetcode.com/problems/happy-number/description/) - Find whether the given number is a happy number i.e sum of square of every digits in a number produces the same input number or not after some repeting steps. Basically, detecting a loop or cycle.
 3. [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/) - Find the single duplicate number in a given array of numbers.
 
-Keywords to observe before *<u>applying fast and slow pointer</u>* :- **"finding a duplicate"**, **"Cycle or loop detection"**
+Points to observe before *<u>applying fast and slow pointer</u>* :- **"finding a duplicate"**, **"Cycle or loop detection"**
 
 
 ## What Is Fast and Slow Pointer Pattern ?

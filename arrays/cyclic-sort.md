@@ -8,7 +8,7 @@
 4. [Find the duplicate number](https://leetcode.com/problems/first-missing-positive/description/) - Find the duplicate number.
 5. [First missing positive](https://leetcode.com/problems/first-missing-positive/description/) - Find the first missing positive.
 
-Keywords to observe before <u>*applying cyclic sort pattern*</u> are:-
+Points to observe before <u>*applying cyclic sort pattern*</u> are:-
 
 1. Question should contain the elements in the given range [1, n] or [0, n].
 2. Requires you to find the duplicate or missing numbers.

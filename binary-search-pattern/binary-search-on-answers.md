@@ -7,7 +7,7 @@
 
 In above questions, it can be seen to find the minimum or maximum ways to find the output.
 
-Keywords to observe before <u>*applying binary search on answer pattern*</u> in **find the minimum/maximum ways in which given input can be calculated or evaluated  efficiently**.
+Point to observe before <u>*applying binary search on answer pattern*</u> is **find the minimum/maximum ways in which given input can be calculated or evaluated efficiently**.
 
 ## What Is Binary Search Pattern ?
 

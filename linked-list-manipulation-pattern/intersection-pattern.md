@@ -7,7 +7,7 @@
 
 Each questions mentioned above, follows a pattern which tells you to find the first point of two linked list from where there elements are common or one list is a subset of one another.
 
-Keywords to observe before <u style="color: cadetblue">*applying intersection detection pattern*</u> are **inputs in two linked list have some common and you are told to find the intersection point from where the common ones start**.
+Points to observe before <u style="color: cadetblue">*applying intersection detection pattern*</u> are **inputs in two linked list have some common and you are told to find the intersection point from where the common ones start**.
 
 ![alt text](/assets/Intersection_diagram.png)
 

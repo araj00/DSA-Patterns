@@ -7,7 +7,7 @@
 3. [Minimum remove to make valid paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) - Make a valid paranthesis in a string by minimum removal of it.
 4. [Evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) - Perform a basic calculation on given input using reverse polish notation
 
-Keywords to observe before <u>*applying valid paranthesis pattern*</u> are **to make a valid paranthesis through removal, swapping, need to evaluate something based on top elements at the moment like evaluating reverse polish notation**.
+Points to observe before <u>*applying valid paranthesis pattern*</u> are **to make a valid paranthesis through removal, swapping, need to evaluate something based on top elements at the moment like evaluating reverse polish notation**.
 
 ## What Is Valid Paranthesis Pattern ?
 

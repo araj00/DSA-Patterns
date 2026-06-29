@@ -6,7 +6,7 @@
 2. [Kth Smallest Element in a sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) - Find Kth smallest element in a sorted matrix.
 3. [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)- Merge K sorted list in a single list.
 
-Keywords to observe before <u>*applying k-way merge pattern*</u> are:-
+Points to observe before <u>*applying k-way merge pattern*</u> are:-
 
 1. Questions contain two or more arrays or a 2d/3d arrays in a form of matrix.
 2. Tells you to find Kth smallest element/elements, pair/pairs or merge the K sorted lists into one single list.

@@ -10,7 +10,7 @@ Each questions mentioned above, follows some patterns which are:-
 1. Remove the Nth node from end of the linked list, need to maintain Nth distance from the end.
 2. Remove the middle node of the linked list. Maintain a separate distance between nodes such that at the end, fast pointer comes to end then slow pointer should be at middle of the node.
 
-Keywords to observe before <u>*applying fixed-separation*</u> is a fixed separation to find the position with reference to a point(usually from end).
+Point to observe before <u>*applying fixed-separation*</u> is a fixed separation to find the position with reference to a point(usually from end).
 
 ---
 

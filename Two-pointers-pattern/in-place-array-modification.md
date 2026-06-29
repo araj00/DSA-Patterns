@@ -12,7 +12,7 @@ Each questions mentioned above, follows some patterns which are:-
 2. Remove the duplicate from the array (same as above but with a twist that at most twice duplicate of a unique number can be preserved, rest of them are removed or can say put at last). 
 3. Sort the elements (But, we sure that number of unique elements should be just 2-4 otherwise <u>use sorting algorithm</u>)
 
-Keywords to observe before <u>*applying in-place modification*</u> are:-
+Points to observe before <u>*applying in-place modification*</u> are:-
 1. **move element, remove the element.**
 2. **remove duplicates.**
 3. **sort the elements(2-4 unique element).**

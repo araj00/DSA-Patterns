@@ -5,7 +5,7 @@
 1. [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - Find whether the given target is in 2D matrix or not, given the first element in the ith row is greater than last element in previous row.
 2. [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) - Find the single element in a sorted array.
 
-Keywords to observe before <u>*applying binary-search pattern*</u> are **find the given element, find the first and last occurence of the element, or find the missing value or special value, in a sorted array**.
+Points to observe before <u>*applying binary-search pattern*</u> are **find the given element, find the first and last occurence of the element, or find the missing value or special value, in a sorted array**.
 
 ## What Is Binary Search Pattern ?
 

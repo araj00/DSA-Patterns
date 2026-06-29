@@ -6,7 +6,7 @@
 2. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Find the top K frequent elements.
 3. [Kth Closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) - Find the K closest points to origin.
 
-Keywords to observe before <u>*applying top-K elements pattern*</u> is **Find the Kth largest or smallest element**.
+Point to observe before <u>*applying top-K elements pattern*</u> is **Find the Kth largest or smallest element**.
 
 ## What Is Top-K Elements Pattern ?
 

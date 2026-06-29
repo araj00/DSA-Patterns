@@ -5,7 +5,7 @@
 1. [Find X sum of all k long subarrays 1](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/) - Find the sum of top X frequent elements in all K long subarrays.
 2. [Find the power of all K size subarrays](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/) - Find the power of all K size subarrays.
 
-Keywords to observe before <u>*applying fixed-size window pattern*</u> is **always to find sum, average, of all <u>K contiguous subarray</u>**.
+Point to observe before <u>*applying fixed-size window pattern*</u> is **always to find sum, average, of all <u>K contiguous subarray</u>**.
 
 ## What is Fixed-Size Window pattern?
 

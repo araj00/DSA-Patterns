@@ -6,7 +6,7 @@
 2. [Minimum operations to reduce to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/) - Find the minimum number of operation to reduce a given number to zero by removing just one element at a time either leftmost or rightmost.
 3. [Maximum consecutive ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) - Return the longest subarray length where you can have consecutive ones after flipping zeros to one at most k times if there are any zeros otherwise just return the array length.
 
-Keywords to observe before <u>*applying variable-size window pattern*</u> is **to achieve a longest subarrays after performing either min or max operations to attain the result like remove/flip the zeros to one to make it longest subarrays</u>**.
+Point to observe before <u>*applying variable-size window pattern*</u> is **to achieve a longest subarrays after performing either min or max operations to attain the result like remove/flip the zeros to one to make it longest subarrays</u>**.
 
 ## What is Variable-Size Window pattern ?
 

@@ -10,7 +10,7 @@
 6. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) - Find whether there is a closed loop in a given linked list or not.
 7. [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - Find the longest substring without repeating characters.
 
-Keywords to observe before <u>*applying hashing pattern*</u> is to find if the given question or its solution involves one of the following points:-
+Points to observe before <u>*applying hashing pattern*</u> is to find if the given question or its solution involves one of the following points:-
 
 1. Find the frequency of each element.
 2. If the searching element is already in a given array or not.

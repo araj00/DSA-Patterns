@@ -6,7 +6,7 @@
 2. [Shortest subarray with sum at least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) - Find the shortest subarray which can contribute to sum of value atleast K.
 3. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) - Find the maximum of each sliding window of size K.
 
-Keywords to observe before <u>*applying monotonic queue pattern*</u> is **always to find max or minimum in a sliding window of size K</u>**.
+Point to observe before <u>*applying monotonic queue pattern*</u> is **always to find max or minimum in a sliding window of size K</u>**.
 
 ## What is Monotonic Queue pattern?
 

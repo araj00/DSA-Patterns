@@ -6,7 +6,7 @@
 2. [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) - Given K sorted linked lists, merge them in sorted order
 
 
-Keyword to observe before <u>*applying merge-two sorted list pattern*</u> is just **merge n sorted linked list as simple as that**.
+Point to observe before <u>*applying merge-two sorted list pattern*</u> is just **merge n sorted linked list as simple as that**.
 
 ## What Is Merge-Two Sorted List Pattern ?
 

@@ -6,7 +6,7 @@
 2. [Online stock span](https://leetcode.com/problems/online-stock-span/description/) - Find the span of each given stock during which the stock price was less than or equal to current stock price consecutively in previous days.
 3. [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) - Design a stack such that max frequence elements derivation achieved at O(1) time complexity.
 
-Keywords to observe before <u>*applying design stack pattern*</u> is **to design a stack where you can perform some operation which would feel like performing n times to achieve the output but that should be achieved in O(1) time complexity**.
+Point to observe before <u>*applying design stack pattern*</u> is **to design a stack where you can perform some operation which would feel like performing n times to achieve the output but that should be achieved in O(1) time complexity**.
 
 ## What Is Design Stack Pattern ?
 

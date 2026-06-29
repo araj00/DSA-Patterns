@@ -5,7 +5,7 @@
 1. [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/) - Find the palindromic substring in a string.
 2. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) - Find the longest palindromic substring
 
-Keywords to observe before <u>*applying expanding from centre*</u> are **Palindrome + substring**
+Points to observe before <u>*applying expanding from centre*</u> are **Palindrome + substring**
 
 ---
 

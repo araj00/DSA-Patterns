@@ -4,7 +4,7 @@
 
 1. [Finding median from data stream](https://leetcode.com/problems/find-median-from-data-stream/description/) - Find K pairs with smallest sums.
 
-Keywords to observe before <u>*applying two-heaps median pattern*</u> is "find the median of a given array/list"
+Point to observe before <u>*applying two-heaps median pattern*</u> is "find the median of a given array/list"
 
 ## What Is Two-Heaps Median Pattern ?
 
