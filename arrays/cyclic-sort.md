@@ -8,9 +8,10 @@
 4. [Find the duplicate number](https://leetcode.com/problems/first-missing-positive/description/) - Find the duplicate number.
 5. [First missing positive](https://leetcode.com/problems/first-missing-positive/description/) - Find the first missing positive.
 
-Keywords to observe before <u>*applying plus one pattern*</u> is **"simply which involves addition or multiplication which can result into handling carry over. Hence, increasing the length of array/string by one or more".**
+Keywords to observe before <u>*applying cyclic sort pattern*</u> are:-
 
-It is just an oldschool way of adding two numbers on paper.
+1. Question should contain the elements in the given range [1, n] or [0, n].
+2. Requires you to find the duplicate or missing numbers.
 
 ## What Is Cyclic Sort Pattern ?
 
